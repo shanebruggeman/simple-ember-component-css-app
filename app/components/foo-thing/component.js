@@ -1,0 +1,1 @@
+export { default } from 'ember-external-contact-components/components/foo-thing/component';

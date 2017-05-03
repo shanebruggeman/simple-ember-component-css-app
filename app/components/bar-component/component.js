@@ -1,0 +1,1 @@
+export { default } from 'ember-external-contact-components/components/bar-component/component';
